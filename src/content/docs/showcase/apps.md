@@ -232,6 +232,14 @@ A CLI-based AI coding agent for local dev, scripts/CI, and automation.
 
 ---
 
+## [`suzui-rs`](https://github.com/thatdevsherry/suzui-rs)
+
+Suzuki Serial Data Line (SDL) viewer in rust.
+
+![suzui-rs demo](https://github.com/user-attachments/assets/00b2e278-38be-4710-a888-27c678bb7f0d)
+
+---
+
 ## [`taskwarrior-tui`](https://github.com/kdheepak/taskwarrior-tui)
 
 A terminal user interface for taskwarrior
